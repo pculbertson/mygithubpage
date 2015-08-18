@@ -85,13 +85,24 @@ body {
   margin: 80px 0; /* Space out the Bootstrap <hr> more */
 }
 
+.divider-team {
+    margin-bottom: 0px;
+}
+
 /* Thin out the marketing headings */
 .featurette-heading {
   font-weight: 300;
   line-height: 1;
   letter-spacing: -1px;
 }
-
+    
+.heading-team {
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -1px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
