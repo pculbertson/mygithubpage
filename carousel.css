@@ -82,11 +82,12 @@ body {
 ------------------------- */
 
 .featurette-divider {
-  margin: 80px 0; /* Space out the Bootstrap <hr> more */
+  margin: 40px 0; /* Space out the Bootstrap <hr> more */
 }
 
 .divider-team {
-    margin-bottom: 0px;
+    margin-top: 40px;
+    margin-bottom: 10px;
 }
 
 /* Thin out the marketing headings */
@@ -95,12 +96,16 @@ body {
   line-height: 1;
   letter-spacing: -1px;
 }
+
+.featurette-image {
+    margin-top: 10%;
+}
     
 .heading-team {
     font-weight: 300;
     line-height: 1;
     letter-spacing: -1px;
-    margin-top: 20px;
+    margin-top: 20px;s
     margin-bottom: 20px;
 }
 
